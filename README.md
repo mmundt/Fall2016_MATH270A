@@ -1,5 +1,3 @@
-This is a different test.
-
 Copyright (c) 2016 Theodore Gast, Chuyuan Fu, Chenfanfu Jiang, Joseph Teran
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
